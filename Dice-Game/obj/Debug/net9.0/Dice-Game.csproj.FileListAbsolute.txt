@@ -1,0 +1,15 @@
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\bin\Debug\net9.0\Dice-Game.exe
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\bin\Debug\net9.0\Dice-Game.deps.json
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\bin\Debug\net9.0\Dice-Game.runtimeconfig.json
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\bin\Debug\net9.0\Dice-Game.dll
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\bin\Debug\net9.0\Dice-Game.pdb
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.AssemblyInfoInputs.cache
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.AssemblyInfo.cs
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.csproj.CoreCompileInputs.cache
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.sourcelink.json
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.dll
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\refint\Dice-Game.dll
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.pdb
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\Dice-Game.genruntimeconfig.cache
+C:\Users\ayesh\MyWork\learn_C#\Dice-Game\Dice-Game\obj\Debug\net9.0\ref\Dice-Game.dll
